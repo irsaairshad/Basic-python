@@ -1,5 +1,5 @@
 """
-Question 01: Variable Mutability (Price Override) - BASIC
+Variable Mutability (Price Override) - BASIC
 
 Ek product ki initial price discount_price = 1500 set ki gayi hai.
 Black Friday sale khatam hone par aapko is variable ki value ko
