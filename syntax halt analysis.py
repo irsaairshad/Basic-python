@@ -1,5 +1,5 @@
 """
-Question 05: Syntax Halt Analysis (Interpreter Behavior) - BASIC
+Syntax Halt Analysis (Interpreter Behavior) - BASIC
 
 Aapke code file mein 3 lines hain:
 Line 1: print("Starting System...")
