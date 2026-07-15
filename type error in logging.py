@@ -1,5 +1,5 @@
 """
-Question 06: Type Error in Logging (Concatenation) - ADVANCED-INTERMEDIATE
+Type Error in Logging (Concatenation) - ADVANCED-INTERMEDIATE
 
 Ek developer server logging ke liye code likhta hai:
 print("Active connections: " + 15).
