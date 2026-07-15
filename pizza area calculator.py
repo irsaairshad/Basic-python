@@ -1,5 +1,5 @@
 """
-Question 07: Pizza Area Calculator (Formula Assignment) - ADVANCED-INTERMEDIATE
+Pizza Area Calculator (Formula Assignment) - ADVANCED-INTERMEDIATE
 
 Ek online pizza delivery app ke liye, user se pizza ka diameter input
 lein. Is diameter ka use karte hue pizza ka total area calculate karein:
