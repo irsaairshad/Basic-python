@@ -1,5 +1,5 @@
 """
-Question 02: Banned Keyword Check (Naming Rules) - BASIC
+Banned Keyword Check (Naming Rules) - BASIC
 
 Aap user roles save karne ke liye variable ka naam for = "Admin"
 rakhna chahte hain. Python is par error kyun deta hai, aur Python
