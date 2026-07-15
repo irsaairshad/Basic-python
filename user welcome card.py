@@ -1,5 +1,5 @@
 """
-Question 10: User Welcome Card (Formatted Output) - ADVANCED-INTERMEDIATE
+ User Welcome Card (Formatted Output) - ADVANCED-INTERMEDIATE
 
 User se unka first_name aur last_name do alag inputs ke zariye lein.
 Phir un dono variables ko use karke single line mein
