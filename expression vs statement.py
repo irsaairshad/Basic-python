@@ -1,5 +1,5 @@
 """
-Question 08: Expression vs Statement Identification - ADVANCED-INTERMEDIATE
+Expression vs Statement Identification - ADVANCED-INTERMEDIATE
 
 Neeche diye gaye do code snippets ko dekhein:
 Snippet A: x - 8
