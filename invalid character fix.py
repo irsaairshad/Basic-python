@@ -1,5 +1,5 @@
 """
-Question 04: Invalid Character Fix (Naming Rules) - BASIC
+Invalid Character Fix (Naming Rules) - BASIC
 
 System configuration file mein variables ke naam
 system-status = "Active" aur user$salary = 45000 rakhe gaye hain.
