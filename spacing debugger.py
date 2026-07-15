@@ -1,5 +1,5 @@
 """
-Question 09: Spacing Debugger (Indentation Error) - ADVANCED-INTERMEDIATE
+Spacing Debugger (Indentation Error) - ADVANCED-INTERMEDIATE
 
 Aapne internet se ek code copy kiya aur jab use chalaya to
 "Unexpected Indentation" ka error mila. Python mein whitespace ya
